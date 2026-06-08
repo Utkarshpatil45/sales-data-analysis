@@ -1,9 +1,8 @@
 
-    <h1>📊 Sales Data Analysis Project</h1>
+ <h1>📊 Sales Data Analysis Project</h1>
     <p>End-to-End Data Analytics Solution using Excel, MySQL, Python & Streamlit</p>
 
-
-    <div class="card">
+  <div class="card">
       <h2>🧾 Overview</h2>
       <p>
         This project is a complete end-to-end Data Analytics solution built using Excel, MySQL, Python, and Streamlit.
@@ -11,8 +10,8 @@
       </p>
     </div>
 
-    <div class="card">
-      <h2>🚀 Features</h2>
+<div class="card">
+    <h2>🚀 Features</h2>
       <ul>
         <li>Data cleaning and preparation using Excel</li>
         <li>Data storage and querying using MySQL</li>
@@ -23,7 +22,7 @@
       </ul>
     </div>
 
-    <div class="card">
+<div class="card">
       <h2>🛠️ Tech Stack</h2>
       <span class="badge">Python 🐍</span>
       <span class="badge">MySQL 🗄️</span>
@@ -33,7 +32,7 @@
       <span class="badge">Matplotlib 📈</span>
     </div>
 
-    <div class="card">
+ <div class="card">
       <h2>🌐 Live Project</h2>
       <p>
         👉 Visit Website: 
