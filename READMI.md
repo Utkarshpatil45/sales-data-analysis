@@ -45,7 +45,7 @@
   </div>
 
   <footer>
-    © 2026 Sales Data Analysis Project | Built with ❤️
+    © 2026 Sales Data Analysis Project | Built with ♥️
   </footer>
 
 </body>
